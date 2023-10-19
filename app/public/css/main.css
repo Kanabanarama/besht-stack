@@ -1,0 +1,7 @@
+#items-list .placeholder:not(:only-child) {
+  display: none;
+}
+
+#items-list .trinket {
+  background: linear-gradient(90deg, rgb(55 65 81), rgb(31 41 55 ));
+}
