@@ -13,6 +13,8 @@ A tech stack featuring bun, elysium, sqlite, htmx and tailwind so you spend less
 
 Feel free to ask questions or add improvements.
 
+![Screenshot](app-screenshot.png)
+
 ### How to run it:
 
 `docker-compose up`
